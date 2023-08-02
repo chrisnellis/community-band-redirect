@@ -1,1 +1,3 @@
 # community-band-redirect
+
+Just a simple redirect...
